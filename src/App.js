@@ -69,6 +69,7 @@ function App() {
         <pointLight position={[0, -10, 0]} intensity={1.5} />
 
         <group>
+
           <mesh
             castShadow
             receiveShadow

@@ -13,6 +13,7 @@
     "react-spring": "^9.4.5",
     "react-three-fiber": "^6.0.13",
     "sass": "^1.52.3",
+    "use-key-state": "^0.1.9",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
